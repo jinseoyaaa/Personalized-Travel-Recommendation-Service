@@ -4,7 +4,7 @@
 <br>
 
 ## Project Members
-**최전석** : Team Leader, Data Engineer, Data Analyst
+**최전석 - Team Leader, Data Engineer, Data Analyst**
 - 블로그 데이터 크롤링
 - Hadoop 클러스터 구축  
 - 협업 필터링을 통한 유사집단 기반 추천 알고리즘 개발
@@ -12,7 +12,7 @@
 
 <br>
 
-**양미숙** : Backend Engineer
+**양미숙 - Backend Engineer**
 - 요구사항 분석
 - DB 테이블 작성
 - Django 코드 작성
@@ -20,7 +20,7 @@
 
 <br>
 
-**양정아** : Data Analyst
+**양정아 - Data Analyst**
 - 국민여행조사 데이터 전처리
 - 키워드 추출 및 시각화
 - 감성분석 기반 긍/부정 키워드 추출
@@ -28,7 +28,7 @@
 
 <br>
 
-**이종우** : Frontend Engineer
+**이종우 - Frontend Engineer**
 - 웹사이트 구조도 작성
 - HTML 작성
 - CSS 작성
@@ -37,7 +37,7 @@
 
 <br>
 
-**한진서** : Data Analyst
+**한진서 - Data Analyst**
 - 데이터 수집
 - 블로그 데이터 전처리
 - 키워드 추출 및 임베딩 및 군집화
@@ -45,7 +45,7 @@
 
 <br>
 
-**홍중기** : Data Analyst
+**홍중기 - Data Analyst**
 - 데이터 수집
 - 국민여행조사 데이터 전처리
 - 협업 필터링 관련 자료 조사

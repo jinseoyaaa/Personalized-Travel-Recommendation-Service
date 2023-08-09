@@ -98,11 +98,27 @@
 <br>
 
 ## Output View   
-1. 홈 화면      
+1. **홈 화면**      
 ![home](image/home.png)
 
 <br>
 
-2. 사용자 정보 입력 화면
+2. **사용자 정보 입력 화면**
 ![info1](image/info1.png)
 ![info2](image/info2.png)
+
+<br>
+
+3. **로딩 화면**
+![loading](image/loading.png)
+
+<br>
+
+4. **관심 지역과 추천 여행지 목록 화면**
+![result1](image/result1.png)
+![result2](image/result2.png)
+
+<br>
+
+5. **여행지 세부 정보 화면**
+![detail](image/detail.png)
